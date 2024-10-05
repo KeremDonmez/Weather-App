@@ -2,7 +2,6 @@ import requests
 import tkinter as tki
 from tkinter import messagebox
 
-api_key = 'ec2b6cec8b67a520a7721de6d0aa0551'
 
 
 def get_weather(city):
